@@ -1,12 +1,22 @@
 # Changelog - Open Design
 
-## v0.1.0 - 2026-06-11
+## Unreleased
+
+## v0.1.0 - 2026-07-24
 
 ### Release Summary
 
-- Initial public repository package for **Open Design**.
-- Chapters included: 21.
-- License: CC BY-NC-SA 4.0.
+- Public book package for **Open Design** (16 chapters + 4 appendices).
+- Screenshots and feature references aligned with **Open Design product 0.16.1**.
+- Cover and front matter show version **0.1.0** and publication date **July 2026**.
+- License: CC BY-NC-SA 4.0 (prose); code samples Apache-2.0 / MIT as noted.
+
+### Links
+
+- Book repository: https://github.com/imehr/open-design
+- Website: https://piazr.github.io/open-design/
+- Releases: https://github.com/imehr/open-design/releases
+- Product (Open Design app): https://github.com/nexu-io/open-design
 
 ### Artifacts
 
@@ -17,18 +27,11 @@
 
 ### Content Changes
 
-- Add high-level content notes for this release.
-- List added chapters, removed sections, major rewrites, image updates, and source-date changes.
-- Record any AI-tool version changes that affect instructions or screenshots.
+- Full visual tour and settings coverage refreshed for Open Design 0.16.1.
+- Public HTML inlines compressed screenshots so GitHub accepts the package under the 100 MB limit.
+- Edition block at the front of the book: version, date, repo, website, release page, and changelog summary (stamped on every rebuild).
 
 ### Validation
 
-- Publication preflight and image audit should pass before publishing; internal validation reports remain in the book-writer build output, not in this public book repo.
-- Confirm all public download links work.
-- Confirm final HTML/PDF/ePub assets open correctly.
-- Confirm required copyright, license, AI disclosure, trademark notice, and permissions/credits are present.
-
-### Known Issues
-
-- List unresolved source-date, screenshot, formatting, EPUB, PDF, or legal-review limitations.
-- Use "None known" only after publication preflight and image audit both pass.
+- Publication preflight and image audit pass before publishing.
+- Public book repo sync targets `imehr/open-design`; website sync targets `Piazr/open-design`.

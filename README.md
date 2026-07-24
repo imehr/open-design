@@ -39,7 +39,7 @@ Practitioners building autonomous design workflows - product designers adopting 
 
 Mehran Mozaffari
 
-
+Canonical page: [https://piazr.github.io/open-design/](https://piazr.github.io/open-design/)
 
 ## Credits
 
@@ -59,7 +59,7 @@ For corrections, errata, or licensing inquiries, please open an issue on this re
 
 ## Version
 
-- **v0.1.0** — 2026-06-11
+- **v0.1.0** — 2026-07-24
 - AI tools evolve rapidly; check the official project documentation for current product behavior.
 
 ## License
