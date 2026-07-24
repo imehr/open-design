@@ -5,7 +5,7 @@
 ### Release Summary
 
 - Initial public repository package for **Open Design**.
-- Chapters included: 20.
+- Chapters included: 21.
 - License: CC BY-NC-SA 4.0.
 
 ### Artifacts

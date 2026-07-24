@@ -1,6 +1,6 @@
 # Open Design
 
-> Local-First, Agent-Native Design-as-Code with the Open-Source Claude Design Alternative · by Mehran Mozaffari
+> Local-First, Agent-Native Design-as-Code — The Open-Source AI Design Alternative · by Mehran Mozaffari
 
 <img src="cover.png" alt="Open Design cover" width="360">
 
@@ -19,7 +19,7 @@ Comprehensive coverage of Open Design end to end: the local-first / agent-native
 
 Comprehensive coverage of Open Design end to end: the local-first / agent-native paradigm and why it matters; installation and the desktop + daemon architecture (Next.js 16, Express, SQLite, Electron, Docker); the design-skills system (100+ skills) and the 150 bundled brand design systems; generating every artifact type (web and mobile prototypes, HTML presentations, HyperFrames HTML-to-MP4 motion graphics, live dashboards, AI images); the sandboxed iframe preview and export pipeline (HTML, PDF, PPTX, MP4); the 261 official plugins including Figma migration and refresh-existing-codebases-to-brand-spec workflows; the MCP server and integration across 21+ coding-agent CLIs (Claude Code, Cursor, GitHub Copilot, OpenCode, Codex, Gemini CLI, Antigravity, and others) with comparison and routing guidance; multi-agent design teams and orchestration; real-world case studies; a leadership/adoption-evaluation chapter (governance, cost, vendor independence, open-source licensing under Apache-2.0); and the future of local-first autonomous design. Excludes: deep proprietary-cloud-tool tutorials and unrelated general design theory.
 
-20 chapters are included in this release.
+21 chapters are included in this release.
 
 ## Who Is This For
 
