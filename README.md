@@ -59,9 +59,9 @@ For corrections, errata, or licensing inquiries, please open an issue on this re
 
 ## Version
 
-- **v0.1.0** — 2026-07-24
+- **v0.1.1** — 2026-07-24
 - AI tools evolve rapidly; check the official project documentation for current product behavior.
 
 ## License
 
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — free to share and adapt with attribution, non-commercial use only, under the same license.
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — free to share unadapted with attribution for **noncommercial / personal** use. Commercial and organizational use (and any resale) requires a separate license from the copyright holder. The author retains the right to sell editions on Amazon KDP and other retailers. Code samples: Apache-2.0 / MIT as noted.
